@@ -1,6 +1,6 @@
 # Awesome Tasks
 
-A lightweight command-line task manager. Really pretty software.
+A lightweight command-line task manager. Really pretty software. Beautiful product.
 
 ## Features
 - Add tasks
